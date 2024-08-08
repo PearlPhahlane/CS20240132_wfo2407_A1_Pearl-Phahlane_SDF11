@@ -1,3 +1,7 @@
+# About Project
+In this project, I utilized HTML5 for structure, CSS3 with Tailwind for responsive design, and JavaScript for interactivity. The repository was organized with directories for source files and assets, using GitHub for version control and collaboration. A README.md was included for clear documentation. This setup provided the foundation for creating a professional, user-centric landing page for Cache Bank.
+
+
 # Installation
 
 ```
@@ -14,6 +18,7 @@ npm run build
 npm run build-minify
 
 ```
+# SDF Presentation
+Loom Link: [Insert Here]
 
-# Presentation Talking Points and Presentation Slide Template
-Check out the Project Overview in this GitHub Repo for the guide to talking points for your presentation as well the starter template for your Google Slides here: https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11/blob/main/11_portfolio_piece_1.md
+Presentation Slides: [https://docs.google.com/presentation/d/16koMEsBGcRrn_FQFRPIZiDvk9vog1b3-IIvK37YBrMc/edit?usp=sharing]
